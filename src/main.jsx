@@ -56,6 +56,26 @@ const projects = [
     description:
       'A retail festive campaign connecting digital promotions with physical spaces through posters, glass lobby treatments, backdrops, and customer service touchpoints.',
   },
+  {
+    title: 'Peak Season Golf Membership',
+    category: 'Marketing & Digital',
+    year: 'Promotional Campaign',
+    image: '/assets/peak-season-golf.png',
+    tags: ['Campaign Poster', 'Membership Promo', 'Hospitality'],
+    palette: ['#0F3A26', '#FF5A12', '#F4F0DE', '#6B783B'],
+    description:
+      'A dummy promotional campaign concept for Bukit Darmo Golf membership, combining scenic golf imagery with bold pricing blocks and a clear seasonal offer.',
+  },
+  {
+    title: '18hole Digital Scoring',
+    category: 'Marketing & Digital',
+    year: 'Digital Product Campaign',
+    image: '/assets/18-holes-digital-score.jpg',
+    tags: ['App Launch', 'Digital Service', 'Sports Marketing'],
+    palette: ['#071713', '#F2C44A', '#F7F2E5', '#3F6B4A'],
+    description:
+      'A dummy launch visual for a golf scoring experience, presenting app features, QR activation, and premium course atmosphere in a dramatic digital campaign.',
+  },
 ];
 
 const filters = ['All', 'Visual Branding', 'Editorial & Collateral', 'Marketing & Digital'];
