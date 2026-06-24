@@ -19,7 +19,7 @@ const projects = [
     title: 'Billet Doux',
     category: 'Visual Branding',
     year: 'Brand Experience',
-    image: '/assets/billet-doux.png',
+    image: '/assets/billet-doux-visual.png',
     tags: ['Brand Identity', 'Packaging', 'Artisanal Curation'],
     palette: ['#AF887C', '#C2C0AA', '#D9BEB0', '#E6E6D9', '#C2A68A', '#5F5847'],
     description:
@@ -29,7 +29,7 @@ const projects = [
     title: 'Toast Jam Factory',
     category: 'Visual Branding',
     year: 'Multi-Touchpoint Design',
-    image: '/assets/toast-jam.png',
+    image: '/assets/toast-jam-visual.png',
     tags: ['Editorial Menu', 'Packaging', 'Social Media'],
     palette: ['#111111', '#F6F2EA', '#8D2B22', '#0D735E'],
     description:
@@ -39,7 +39,7 @@ const projects = [
     title: 'The Golden Saffron',
     category: 'Editorial & Collateral',
     year: 'Print Production',
-    image: '/assets/golden-saffron.png',
+    image: '/assets/golden-saffron-visual.png',
     tags: ['Menu Design', 'Brand Collateral', 'Large Format'],
     palette: ['#3D2018', '#8B1E37', '#D5A13A', '#F2E6D2'],
     description:
@@ -49,8 +49,8 @@ const projects = [
     title: 'Chinese New Year Festive',
     category: 'Marketing & Digital',
     year: 'Environmental Graphics',
-    image: '/assets/cny-overview.png',
-    secondaryImage: '/assets/cny-collateral.png',
+    image: '/assets/cny-overview-visual.png',
+    secondaryImage: '/assets/cny-collateral-visual.png',
     tags: ['Integrated Campaign', 'Environmental Graphics', 'Social Media'],
     palette: ['#A31318', '#D44E2E', '#F3C156', '#F0E2DD'],
     description:
