@@ -150,9 +150,6 @@ function App() {
               </a>
             </div>
           </div>
-          <div className="hero-art reveal">
-            <img src="/assets/hero-overview.png" alt="Giovany Kantoro portfolio overview" />
-          </div>
         </section>
 
         <section className="stats-band reveal" aria-label="Portfolio highlights">
